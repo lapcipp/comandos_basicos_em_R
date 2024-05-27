@@ -51,7 +51,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com este repositóri
 
 # Contato
 
-Para mais informações sobre o LAPCIPP e nossos projetos, visite nosso site oficial[https://www.lapcipp.org/] ou entre em contato pelo email: lapcipp.ipol@gmail.com.
+Para mais informações sobre o LAPCIPP e nossos projetos, visite nosso [site oficial](https://www.lapcipp.org/) ou entre em contato pelo email: lapcipp.ipol@gmail.com.
 
 ________________________________________________________________________________
 
