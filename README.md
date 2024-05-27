@@ -53,7 +53,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com este repositóri
 
 Para mais informações sobre o LAPCIPP e nossos projetos, visite nosso site oficial[https://www.lapcipp.org/] ou entre em contato pelo email: lapcipp.ipol@gmail.com.
 
-_______________________________________________________________________________
+________________________________________________________________________________
 
 Este repositório é mantido pelo Laboratório de Pesquisa em Comportamento Político, Instituições e Políticas Públicas (LAPCIPP) da Universidade de Brasília. Agradecemos o seu interesse e esperamos que os recursos aqui disponibilizados sejam úteis em suas pesquisas.
    
